@@ -62,45 +62,49 @@ as a Heisenberg-type interacting spin- 1/2 chain with nearest-neighbor
 coupling.
 The total Hamiltonian consisting of the atomic medium of two atoms(1),the
 photon baths(2,3), and the atom-photon coupling(4,5) terms is :
+$$H_T =  H_M + H_{LB} + H_{RB} + \mu _{LM} + \mu_{RM}$$
+\begin{equation}
+H_M = 2 J_x \sigma_1 \sigma_2^{\dagger} + 2 J_x \sigma_1^{\dagger} \sigma_2 + 
+4J_z \sigma_1^{\dagger}\sigma_1 + \omega_1 \sigma_1^{\dagger}\sigma_1 + \omega_2 \sigma_2^{\dagger} \sigma_2
+\end{equation}
+<p>
+$a_k^{\dagger},b_k^{\dagger}$ create a photon with wave number $k$, respectively, at left \&right side photon baths
+<p>
+\begin{equation}
+H_{LM} = \int _{-\infty}^{\infty} g_L (a_k^{\dagger}\sigma_1 + sigma_1^{\dagger}a_k) dk
+\end{equation}
 
-<P>
+\begin{equation}
+H_{RM} = \int _{-\infty}^{\infty} g_R (b_k^{\dagger}\sigma_N + sigma_N^{\dagger}b_k) dk
+\end{equation}
+The atom-photon coupling strength at left and right sides of the medium are $g_L$ and $g_R$ respectively.
+
+<p>
 Photon Transport 
 <p>
-We are here only interested in getting total transmitted and reflected power
-which in turn would give transmission and reflection coefficients of light.
+We are here interested in getting total transmitted and reflected power which in turn would give transmission and reflection coefficients of light.
 The time-dependent transmission and reflection coefficients for an incoming light from the left of the medium.
 
 The time-dependent transmission cocfficients :
-T(t) =
+$$T(t) = \frac{2\Gamma_R}{\mu_g I_{in}} S_{22}(t)$$
 <br>
 The time-dependent reflection coefficients :
 
-R(t) = 14
+$$R(t) = 1 + \frac{2\Omega_L}{\mu_g I_{in}}+ \frac{2\Gamma _L}{\mu_g I_{in}} S_{11}(t)$$
 
  <p>
 Transient Properties of Scattered Light
 <p>
 Transient properties of the scattered light and the atoms in a medium of
 two atoms driven by a laser light. Figure (1,2) depict time-evolution of
-transmission coefficient 72(t) and reflection coefficient Ro(t) of a laser
+transmission coefficient $T(t)$ and reflection coefficient $R(t)$ of a laser
 light from the left of the medium modeled as an interacting spin chain.
-Figure (3.4) depict. time evolution of excited atoms scaled by power of
+Figure (3,4) depict. time evolution of excited atoms scaled by power of
 the incident laser.
 
 The common parameters are
 
-Wy = We = Wy = Wa = 0.05u,,T, =T'R = 0.14.
-<p>
-Steady State Properties
-<p>
-Linear and nonlinear laser transmission through an atomic medium of
-two atoms modeled as an interacting spin chain.The steady state
-transmission coefficient 7)(t = 00) vs scaled frequency w,/w, of the laser
-for various intensities (in o E) of the incident laser.
-<br>
-In all the plots Ty = Tp = 0.1, J, = 0.05. The rates 2,0 pr, Je, Jz and
-w, 2 are in units of we, and Jin is in units of w/v,.
-
+$\omega_1 = \omega_2 = \omega_p = \omega_a, J_x = J_z =  0.05 \omega_a , \Gamma _ L = \Gamma _ R = 0.1 \omega_a $
 <div class="container">
 	<div class="row" >
 		<div class="col" >
@@ -114,32 +118,48 @@ w, 2 are in units of we, and Jin is in units of w/v,.
 	</div>
 	<div class="row">
 		<div >
-			<img src="fig1.jpg" height="400px" width="600px"/>
+			<img src="fig3.jpg" height="400px" width="600px"/>
+			<div > figure 3 </div>
 		</div>
 		<div>
-			<img src="fig2.jpg" height="400px" width="600px"/>
+			<img src="fig4.jpg" height="400px" width="600px"/>
+			<div > figure 4 </div>
 		</div>
 	</div>
 </div>
+
+
+<p>
+Steady State Properties
+<p>
+Linear and nonlinear laser transmission through an atomic medium of
+two atoms modeled as an interacting spin chain.The steady state
+transmission coefficient $T_2(t = \infty)$ vs scaled frequency $\frac{\omega_p}{\omega_a}$, of the laser
+for various intensities ($I_{in} \prop E_p ^2$) of the incident laser.
+<br>
+In all the plots $\Gamma_L = \Gamma _R = 0.1, J_z, = 0.05.$ The rates $\Gamma_L,\Gamma_R,J_x,J_z$ and
+$\omega_1, \omega_2$ are in units of $\omega_a$, and $I_{in}$ is in units of $\frac{\omega}{\mu_g}$.
 
 
 <div class="container">
 	<div class="row" >
 		<div class="col" >
 			<img src="figA.jpg" height="400px" width="600px"/>
-			<div > figure 1 </div>
+			<div > figure A </div>
 		</div>
 		<div class="col">
 			<img src="figB.jpg" height="400px" width="600px"/>
-			<div> figure 2 </div>
+			<div > figure B </div>
 		</div>
 	</div>
 	<div class="row">
 		<div >
 			<img src="figC.jpg" height="400px" width="600px"/>
+			<div > figure C </div>
 		</div>
 		<div>
 			<img src="figD.jpg" height="400px" width="600px"/>
+			<div > figure D </div>
 		</div>
 	</div>
 </div>

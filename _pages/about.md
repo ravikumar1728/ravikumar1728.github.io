@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ravi Kumar"
-excerpt: "PhD student in Physics at Duke University working on quantum information science, open quantum systems, and tensor-network methods."
+excerpt: "PhD candidate in Physics at Duke University working on quantum information science, open quantum systems, and tensor-network methods."
 author_profile: true
 redirect_from:
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PhD student in Physics at Duke University, where I work in quantum information science with a focus on open quantum systems, quantum many-body dynamics, and quantum computing. My current research centers on tensor-network methods for driven and dissipative quantum systems.
+I am a PhD candidate in Physics at Duke University, where I work in quantum information science with a focus on open quantum systems, quantum many-body dynamics, and quantum computing. My current research centers on tensor-network methods for driven and dissipative quantum systems.
 
 At Duke, I work with Dr. Thomas Barthel on algorithm development for open quantum systems. In particular, I am developing tensor-network techniques for Lindblad master-equation dynamics, with an emphasis on handling positivity constraints so that larger and more complex quantum systems can be simulated reliably.
 

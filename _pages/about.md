@@ -22,4 +22,3 @@ Research Interests
 - Open quantum systems
 - Quantum many-body systems
 - Quantum computing and quantum information
-- Tensor-network methods for nonequilibrium dynamics

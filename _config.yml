@@ -23,7 +23,7 @@ repository               : "ravikumar1728"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Ravi Kumar"
   pronouns         :  "he/him"  
   bio              : "Physics PhD Candidate"

@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate & Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "IIT Varanasi, Physics"
-date: 08-2022
+date: 2022-08
 location: "Varanasi, India"
 ---
 

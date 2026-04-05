@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Fellowships & Awards"
+excerpt: ""
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* **I&E PhD Fellowship** (2026)
+* **Richardson Endowment Fellowship** (2024)
+* **ICTS-S.N. Bhatt Memorial Excellence Fellowship** (2022)
+* **GSAS Fellowship** (2022)
+* **1st Place Award, Students’ Research Convention** (2022) – IIT Kanpur; awarded for research presentation on geometric quenches.
+* **Top 1%**, Senior School Certificate Examination CBSE (2017)

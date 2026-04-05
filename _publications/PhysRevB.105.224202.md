@@ -6,8 +6,8 @@ permalink: /publication/PhysRevB.105.224202
 excerpt: 'we investigate the effect of geometric quench in the Aubry-André model, which supports localization-delocalization transition even in one dimension.'
 date: 2022-06-09
 venue: 'Physical Review B'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+paperurl: 'https://ravikumar1728.github.io/files/paper1.pdf'
+bibtexurl: 'https://ravikumar1728.github.io/files/bibtex1.bib'
 citation: 'PhysRevB.105.224202'
 ---
 

@@ -233,7 +233,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  honors:
+  leadership:
     output: true
     permalink: /:collection/:path/
 
@@ -289,6 +289,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _leadership
+  - scope:
+      path: ""
+      type: leadership
     values:
       layout: single
       author_profile: true

@@ -19,15 +19,19 @@ main:
     
   - title: "Honors"
     url: /portfolio/
+
+   - title: "Leadership"
+    url: /markdown/
+
+   - title: "CV"
+    url: /cv/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ 
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+ 

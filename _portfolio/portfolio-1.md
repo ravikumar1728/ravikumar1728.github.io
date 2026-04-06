@@ -6,6 +6,7 @@ collection: portfolio
 
 * **I&E PhD Fellowship** (2026)
 * **Richardson Endowment Fellowship** (2024)
+* **qosf's Quantum Computing Mentorship Program** (2023)
 * **ICTS-S.N. Bhatt Memorial Excellence Fellowship** (2022)
 * **GSAS Fellowship** (2022)
 * **1st Place Award, Students’ Research Convention** (2022) – IIT Kanpur; awarded for research presentation on geometric quenches.

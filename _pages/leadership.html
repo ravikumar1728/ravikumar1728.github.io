@@ -1,8 +1,17 @@
---- 
-layout: archive 
-title: "Leadership" permalink: /leadership/ 
-author_profile: true 
---- 
-{% include base_path %} {% if site.leadership and site.leadership.size > 0 %} {% for post in site.leadership reversed %} {% include archive-single.html %} {% endfor %} {% else %}
-Leadership roles, service activities, and mentoring work will appear here.
-{% endif %}
+---
+  layout: archive
+  title: "Leadership"
+  permalink: /leadership/
+  author_profile: true
+  ---
+
+  {% include base_path %}
+
+  {% if site.leadership and site.leadership.size > 0 %}
+    {% for post in site.leadership reversed %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% else %}
+  <p>Leadership roles, service activities, and mentoring work will appear
+  here.</p>
+  {% endif %}

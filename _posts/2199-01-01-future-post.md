@@ -1,6 +1,6 @@
 ---
 title: ' The Ultimate Cheat Sheet for Your Academic Pages Website'
-date: 2199-01-01
+date: 2026-04-06
 permalink: /posts/2012/08/ The Ultimate Cheat Sheet for Your Academic Pages Website/
 tags:
   - academic page website

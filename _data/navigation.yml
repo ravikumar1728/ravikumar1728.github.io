@@ -20,8 +20,8 @@ main:
     - title: "Honors"
       url: /portfolio/
 
-    - title: "Leadership"
-      url: /leadership/
+   # - title: "Leadership"
+   #   url: /leadership/
 
     - title: "CV"
       url: /cv/

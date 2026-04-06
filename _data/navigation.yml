@@ -20,10 +20,10 @@ main:
   - title: "Honors"
     url: /portfolio/
 
-   - title: "Leadership"
+  - title: "Leadership"
     url: /leadership/
 
-   - title: "CV"
+  - title: "CV"
     url: /cv/
         
   - title: "Blog Posts"
